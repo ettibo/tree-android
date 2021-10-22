@@ -1,0 +1,2 @@
+rootProject.name = "TreeAndroid"
+include ':app'
